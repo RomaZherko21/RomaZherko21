@@ -4,3 +4,7 @@
 - 📫 How to reach me: 
   - RomaZherko210@gmail.com
   - https://www.linkedin.com/in/roma-zherko-4210ba186/ 
+
+CodeWars                   |  Trophies
+:-------------------------:|:-------------------------:
+![CodeWars badge for RomaZherko21](https://www.codewars.com/users/RomaZherko21/badges/large)  |  ![Profile trophy of @RomaZherko21](https://github-profile-trophy.vercel.app/?username=RomaZherko21)
