@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Roma Zherko, and I'm 22 years old.
-- 👀 I’m interested in FrontEnd (React/Redux) and BackEnd (express/MySQL/mongoDB) technologies
-- 🌱 I’m currently learning Web technologies and trying to find my first job opportunity...
+- 👋 Hi, I’m Roma Zherko.
 - 📫 How to reach me: 
   - RomaZherko210@gmail.com
   - https://www.linkedin.com/in/roma-zherko-4210ba186/ 
