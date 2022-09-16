@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Roma Zherko, Fullstack developer.
-- 💵 Worked with with CRM and CMS systems. Also in gambling and e-commerce industries.
-- 📫 How to reach me: 
-  - RomaZherko210@gmail.com
-  - https://www.linkedin.com/in/roma-zherko-4210ba186/ 
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+- 💼 Worked with with CRM and CMS systems. Also in gambling and e-commerce industries
+- 🎓 Belarusian State Technological University
  
 ### Languages
 
@@ -24,9 +25,15 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
   
- ![RomaZherko21](https://github-readme-stats.vercel.app/api?username=RomaZherko21&show_icons=true&theme=dracula)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomaZherko21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 CodeWars                   
 :-------------------------:
 ![CodeWars badge for RomaZherko21](https://www.codewars.com/users/RomaZherko21/badges/large)
+
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
+
+[<img src="https://raw.githubusercontent.com/RomaZherko21/RomaZherko21/master/socials/linkedin.png" height="40em" align="center" alt="Follow RomaZherko on LinkedIn" title="Follow RomaZherko on LinkedIn"/>](https://www.linkedin.com/in/roma-zherko-4210ba186/)
+[<img src="https://raw.githubusercontent.com/RomaZherko21/RomaZherko21/master/socials/google.png" height="40em" align="center" alt="@gmail" title="@gmail"/>]()
+
