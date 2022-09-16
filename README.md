@@ -34,6 +34,6 @@ CodeWars
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
-[<img src="https://raw.githubusercontent.com/RomaZherko21/RomaZherko21/master/socials/linkedin.png" height="40em" align="center" alt="Follow RomaZherko on LinkedIn" title="Follow RomaZherko on LinkedIn"/>](https://www.linkedin.com/in/roma-zherko-4210ba186/)
-[<img src="https://raw.githubusercontent.com/RomaZherko21/RomaZherko21/master/socials/google.png" height="40em" align="center" alt="@gmail" title="@gmail"/>]()
+[<img src="https://raw.githubusercontent.com/RomaZherko21/RomaZherko21/master/linkedin.png" height="40em" align="center" alt="Follow RomaZherko on LinkedIn" title="Follow RomaZherko on LinkedIn"/>](https://www.linkedin.com/in/roma-zherko-4210ba186/)
+[<img src="https://raw.githubusercontent.com/RomaZherko21/RomaZherko21/master/google.png" height="40em" align="center" alt="@gmail" title="@gmail"/>]()
 
