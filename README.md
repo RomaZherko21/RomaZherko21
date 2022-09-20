@@ -22,6 +22,7 @@
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![MongoDb](https://img.shields.io/badge/-MongoDb-000?&logo=MongoDb)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
   
