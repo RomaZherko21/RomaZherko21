@@ -14,6 +14,9 @@
 
 ### Technologies
 
+![HTML](https://img.shields.io/badge/-html-000?&logo=html5)
+![CSS](https://img.shields.io/badge/-css-000?&logo=css3)
+![SCSS](https://img.shields.io/badge/-scss-000?&logo=sass)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![Mobx](https://img.shields.io/badge/-Mobx-000?&logo=Mobx)
